@@ -1,2 +1,2 @@
 # reconhecimento_facial
-Projeto de Reconhecimento Facial que está sendo desenvolvido como pesquisa acadêmica para Iniciação Científica na FATEC Ipiranga.
+Projeto Simples de Reconhecimento Facial que foi desenvolvido para Iniciação Científica Voluntária na FATEC Ipiranga.
